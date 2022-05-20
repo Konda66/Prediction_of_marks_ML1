@@ -14,7 +14,9 @@
 
 # The very next process is to train the algorithm
 
-->The very next phase is to implement the plotting test data using the previously trained test data●Predicting the scores for the model is the next important step towards knowing our model
+->The very next phase is to implement the plotting test data using the previously trained test data
+
+->Predicting the scores for the model is the next important step towards knowing our model
 
 
 
