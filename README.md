@@ -12,11 +12,20 @@
 
 ->The process of dividing the data into attributes and labels is our next task, so we implement the same asbelow.●The split of data into the training and test sets is very important as in this time we will be using ScikitLearn's built in method of train_test_split().
 
-# The very next process is to train the algorithm
+**The very next process is to train the algorithm**
 
 ->The very next phase is to implement the plotting test data using the previously trained test data
 
 ->Predicting the scores for the model is the next important step towards knowing our model
+
+->Comparing the actual versus predicted model to understand our model fitting
+
+->Now, we can test it with an eg.
+
+->Dataset: http://bit.ly/w-data
+**SummaryNow**
+*we have successfully implemented the model and have received the output, the important thing that needsto be kept in mind  is that this model works only for the dataset we provided, the results may change if the datais changed and thus we need to optimize the model again.*
+Thank
 
 
 
