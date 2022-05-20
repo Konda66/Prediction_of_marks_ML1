@@ -24,7 +24,7 @@
 
 ->Comparing the actual versus predicted model to understand our model fitting
 
-->Now, we can test it with an eg.
+->Now, we can test it with an example.
 
 ->Dataset: ! http://bit.ly/w-data 
 >**SummaryNow**
