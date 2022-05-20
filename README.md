@@ -22,8 +22,8 @@
 
 ->Now, we can test it with an eg.
 
-->Dataset: http://bit.ly/w-data
-**SummaryNow**
+->Dataset: ! http://bit.ly/w-data 
+>**SummaryNow**
 *we have successfully implemented the model and have received the output, the important thing that needsto be kept in mind  is that this model works only for the dataset we provided, the results may change if the datais changed and thus we need to optimize the model again.*
 Thank
 
